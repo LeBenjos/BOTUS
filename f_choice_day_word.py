@@ -16,4 +16,4 @@ def choice_day_word(language):
         return random_word
     # Other languages
     else:
-        return "Désolé pour l'instant seulement 2 langues sont disponibles"
+        return "Sorry for the moment only 2 languages are available"
