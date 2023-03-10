@@ -36,13 +36,13 @@ If you want to see my other projects you can find me on [Instagram](https://www.
 
 ## **RESSOURCES :**
 ### **EN**
-**ICON<sup>1</sup>** : ![logo](../logo/botus_logo.png)  
+**ICON<sup>1</sup>** : ![logo](./logo/botus_logo.png)  
 **NAME<sup>2</sup> & USERNAME<sup>3</sup>** : BOTUS  
 **DESCRIPTION<sup>4</sup>** : Hello, to start a administrator need to attribut me a channel with **!channel [id_channel]**. After you can do **!rules** for more informations. Bot develop by https://github.com/LeBenjos  
 **TAGS<sup>5</sup>** : DAY_WORD | GAME | GUESSWORD | BOTUS | PYTHON  
 
 ### **FR**
-**ICON<sup>1</sup>** : ![logo](../logo/botus_logo.png)  
+**ICON<sup>1</sup>** : ![logo](./logo/botus_logo.png)  
 **NAME<sup>2</sup> & USERNAME<sup>3</sup>** : BOTUS  
 **DESCRIPTION<sup>4</sup>** : Hello, pour commencer un administrateur doit m'attribuer un channel avec **!channel [id_channel]**. Vous pouvez ensuite utiliser la commande **!rules** pour en savoir plus. Bot développé par https://github.com/LeBenjos  
 **TAGS<sup>5</sup>** : DAY_WORD | GAME | GUESSWORD | BOTUS | PYTHON
