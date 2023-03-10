@@ -1,2 +1,2 @@
 # BOTUS
-Creation of a discord bot in python to play
+Creation of a discord bot in python to play MOTUS
