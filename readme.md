@@ -2,7 +2,7 @@
 
 ## **WHAT IS BOTUS ?**
 BOTUS is a discord bot that I developed during my first year of study at HETIC. The bot is coded in python. It is a personal project that I realized to apply my newly acquired knowledge in algorithms.  
-The principle of the game is simple. Every day at 7 am a random word and chosen. You have 6 chances to find it. A ranking is available to know who is the best player!  
+The principle of the game is simple. Every day at 7 am a random word is chosen. You have 6 try to find it. A ranking is available to know who is the best player!  
 If you want to see my other projects you can find me on [Instagram](https://www.instagram.com/benjaminschinkel01/) and [Github](https://github.com/LeBenjos) or on my [website](https://benjaminschinkel.com).
 
 -----------------
@@ -17,7 +17,7 @@ If you want to see my other projects you can find me on [Instagram](https://www.
 6. Click on "Reset Token" and "Yes, do it!"
 7. Copy the TOKEN and keep him | **/!\ WARNING : Never share your token**
 8. In "OAuth2" in "URL Generator" select "bot" and select "Administrator". Now you can copy the "GENERATED URL"
-9. Past the "GENERATED URL" on your browser, select the serveur and click on "Continue" and allow | Nice BOTUS is on your serveur now!
+9. Past the "GENERATED URL" on your browser, select the serveur and click on "Continue" and allow | **Nice BOTUS is on your serveur now!**
 10. Now open your code editor and drag this folder inside
 11. You can choose whether your bot speaks English (open runbot_en.py) or French (open runbot_fr.py)
 12. On runbot_en.py or runbot_fr.py go at the line 276 and paste your token inside the client.run("__here__")
